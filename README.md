@@ -26,6 +26,9 @@ Included
 * **formali**: a course on theoretical computer science (Turing
   machines, logic, complexity classes and so on) I took at my
   university (notes in Italian)
+* **compinvest1**: notes I took while attending the Computational
+  Investing (part 1) course taught by Tucker Balch on coursera
+  (notes in English)
 
 License
 =======
