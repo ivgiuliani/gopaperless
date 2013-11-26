@@ -8,7 +8,7 @@ things.
 
 Some of these notes are in Italian, some in English and some in both
 (I tend to use any language _I feel_ it fits better in that situation,
-I can only imagine what will happen if I learn russian),
+I can only imagine what will happen if I ever learn russian or japanese),
 and it's very likely that they contain mistakes. However they include
 things in which I put a lot of effort and I'd like to keep them safe
 from any kind of accident.
