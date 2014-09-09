@@ -29,6 +29,8 @@ Included
 * **compinvest1**: notes I took while attending the Computational
   Investing (part 1) course taught by Tucker Balch on coursera
   (notes in English)
+* **analisi**: a course on mathematical analysis I took at my
+  university (notes in Italian)
 
 License
 =======
