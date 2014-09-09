@@ -31,6 +31,8 @@ Included
   (notes in English)
 * **analisi**: a course on mathematical analysis I took at my
   university (notes in Italian)
+* **numericalmethods**: a course on numerical analysis I took at my
+  university (notes in Italian)
 
 License
 =======
